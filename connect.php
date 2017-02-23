@@ -1,5 +1,5 @@
 <?php
-$host = "localhost";
+$host = "ap-cdbr-azure-southeast-b.cloudapp.net";
 $user = "b63ce2ed176523";
 $pass = "0568020d";
 $name = "oyedb1";
